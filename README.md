@@ -8,6 +8,11 @@ The PcW16 set its documents in its own screen typefaces, each point sized pixel 
 2. It records exactly what appears on screen. (The PcW16 screen not a modern screen, so we're getting pixel by pixel!)
 3. On Linux, those records become bitmap and TrueType fonts you can use today. (With the help of fancy scripts...)
 
+**Here's an example:**
+
+<img width="1461" height="1389" alt="image" src="https://github.com/user-attachments/assets/0f0554ac-8ba1-427a-9421-a28f388a7d08" />
+
+
 > **Tools, not fonts.** This repository contains no PcW16 fonts, no reconstructed fonts, no captured glyphs and no Rosanne software. You bring your own PcW16, or emulator with your own Rosanne installation, and the tools do the rest.
 
 ---
