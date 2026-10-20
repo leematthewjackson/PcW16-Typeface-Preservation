@@ -1,0 +1,5 @@
+# Python libraries for the Linux tools (tested with fontTools 4.67 and Pillow 12.3)
+fonttools
+Pillow
+# optional: the OpenType Sanitizer check in verify_fonts.py (C6)
+# opentype-sanitizer
